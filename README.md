@@ -17,3 +17,5 @@ KavenMod (4.11.4) - ADDED GHOST MACRO (Big Update!!)
 KavenMod (4.11.5) - Added Ghost Spots 2 + minor bug fixes with Power Orb not placing. Fixed it working with NEU. 
 KavenMod (4.11.6) - Note that Kaven is currently not working with the latest version of pizzaclient, however we understand you want protection. Version 4.10.3-pre1 or
 below is still usable. However the following version 4.11.3 or above is currently functioning with pizzaclient.
+
+Please DM yodelingkittens#8234 if you have any questions!
